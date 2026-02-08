@@ -67,7 +67,7 @@ Hands-on experimentation with **Agentic AI architectures**, exploring how autono
 ---
 
 ## 🤝 Let’s Connect
-- 💼 LinkedIn: *(add your LinkedIn URL here)*
+- 💼 LinkedIn: *(https://www.linkedin.com/in/nimeshpanda/)*
 - 💡 Open to discussions on software architecture, engineering leadership, DevOps, and AI
 
 Thanks for stopping by!
